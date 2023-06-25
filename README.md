@@ -8,4 +8,4 @@ Desarrollador de software, React | Spring Boot | MySQL - Front End specialist, e
 
 ## Portafolio 💼
 
-### [Ver Pagina](https://m-portafolio-exequiel-gerez.vercel.app/) 👈
+### [Ver Pagina](https://exequielgerez.tech/) 👈
